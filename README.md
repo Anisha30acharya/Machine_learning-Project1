@@ -3,6 +3,7 @@
 📝 Project Documentation Overview
 This machine learning project consists of the following main components:
 Importing Required Libraries
+-----------------------------
 Includes pandas, numpy, and scikit-learn for data processing and model building.
 
 Data Loading and Inspection
